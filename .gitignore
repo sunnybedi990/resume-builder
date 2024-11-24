@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*.env
+*.DS_Store
+*.log
+*.sqlite3
+resume_skeleton.yaml  # Exclude personal YAML file if required

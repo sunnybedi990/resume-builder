@@ -1,0 +1,4 @@
+python-docx 
+pyyaml 
+openai
+reportlab

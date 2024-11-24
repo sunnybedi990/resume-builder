@@ -1,0 +1,75 @@
+header:
+  name: "Baljindersingh Surendrasingh Bedi"
+  contact:
+    phone: "(708) 573-9951"
+    email: "baljindersinghbedi409@gmail.com"
+    linkedin: "https://www.linkedin.com/in/baljindersinghbedi"
+summary: >
+  Graduated with a Master of Science in Artificial Intelligence from DePaul University, 
+  with expertise in Natural Language Processing, Computer Vision, Neural Networks, and Deep Learning. 
+  Demonstrated ability to rapidly acquire new skills and adapt to changing environments. 
+  Highly motivated to contribute effectively to innovative projects.
+education:
+  - university: "DePaul University, Chicago, IL"
+    degree: "Master of Science in Artificial Intelligence"
+    gpa: "3.5"
+    graduation_date: "June 2024"
+  - university: "The Institute of Chartered Accountants of India, India"
+    degree: "CA Intermediate, Tax Law/Taxation"
+    gpa: "3.6"
+    graduation_date: "June 2018"
+  - university: "The Gujarat University, India"
+    degree: "Bachelor of Commerce – Accounting, Finance, Taxation"
+    graduation_date: "March 2016"
+experience:
+  - title: "Artificial Intelligence Engineer Intern"
+    company: "RadicalX, New York"
+    duration: "June 2023 – Aug 2023"
+    responsibilities:
+      - "Advocated for the use of open-source models to uphold data privacy standards."
+      - "Implemented FAISS for managing high-dimensional vector databases, enhancing data retrieval efficiency by 40%."
+      - "Developed an AI system leveraging OpenAI API, significantly improving information retrieval."
+      - "Enhanced QA formats, reducing errors by 25%."
+      - "Conducted comparative analysis of BERT and LLama2 models."
+projects:
+  - name: "Hybrid 3D Pooling CNN for Gesture Recognition"
+    description: "Developed a CNN model enhancing gesture recognition in low-resolution videos; achieved 93% accuracy."
+  - name: "Computer Vision for 3D Reconstruction"
+    description: "Developed a 3D reconstruction model from RGB and depth images, focusing on accuracy and efficiency."
+  - name: "AI-Driven Dino Game Using CNN"
+    description: "Autonomous game player for Chrome Dino game using CNN and reinforcement learning."
+  - name: "Tutor Buddy: Teaching using LLM"
+    description: "Created a personalized tutoring system using LLMs like LLama3, LLama2, and Gemini."
+  - name: "RAG Application for Chatbots"
+    description: "Designed a Retrieval-Augmented Generation system for chatbots, integrating FAISS for efficient retrieval."
+  - name: "Predicting Bank Loan Defaults Using Machine Learning"
+    description: "Predicted loan defaults using regression models and ensemble methods."
+  - name: "Retailrocket Recommender System Data Analysis"
+    description: "Analyzed e-commerce behavioral data for recommendation system optimization."
+skills:
+  Programming Languages:
+    - Python
+    - Java
+    - PHP
+    - SQL
+  AI/ML Frameworks:
+    - PyTorch
+    - TensorFlow
+  AI Techniques:
+    - Transformers
+    - NLP
+    - Reinforcement Learning
+    - Computer Vision
+  ML Libraries:
+    - scikit-learn
+    - OpenCV
+  Algorithms:
+    - Linear Regression
+    - XGBoost
+    - Decision Trees
+  Data Science:
+    - Visualization
+    - Feature Engineering
+  Version Control:
+    - Git
+

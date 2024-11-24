@@ -1,0 +1,58 @@
+header:
+  name: "Full Name"
+  contact:
+    phone: "123-456-7890"
+    email: "email@example.com"
+    linkedin: "https://linkedin.com/in/username"
+summary: >
+  Write a concise summary highlighting your key skills, experience, and professional aspirations.
+education:
+  - university: "University Name"
+    degree: "Degree Title (e.g., Bachelor of Science in Computer Science)"
+    gpa: "Your GPA (if applicable, e.g., 3.8/4.0)"
+    graduation_date: "Month Year (e.g., May 2024)"
+  - university: "University Name"
+    degree: "Another Degree (if applicable)"
+    gpa: ""
+    graduation_date: "Month Year"
+experience:
+  - title: "Job Title"
+    company: "Company Name"
+    duration: "Start Date - End Date (e.g., Jan 2021 – Present)"
+    responsibilities:
+      - "Responsibility or achievement 1"
+      - "Responsibility or achievement 2"
+      - "Responsibility or achievement 3"
+  - title: "Another Job Title"
+    company: "Another Company Name"
+    duration: "Start Date - End Date"
+    responsibilities:
+      - "Responsibility or achievement 1"
+      - "Responsibility or achievement 2"
+projects:
+  - name: "Project Name"
+    description: >
+      A short description of the project, highlighting its purpose, your role,
+      and the technologies or skills used.
+  - name: "Another Project Name"
+    description: >
+      A concise description of another project.
+skills:
+  Programming Languages:
+    - "List programming languages here (e.g., Python, Java, C++)"
+  AI/ML Frameworks:
+    - "List frameworks here (e.g., TensorFlow, PyTorch)"
+  AI Techniques:
+    - "List AI techniques here (e.g., NLP, Reinforcement Learning, Computer Vision)"
+  ML Libraries:
+    - "List ML libraries here (e.g., scikit-learn, OpenCV, NumPy)"
+  Algorithms:
+    - "List algorithms here (e.g., Linear Regression, XGBoost, Decision Trees)"
+  Data Science:
+    - "List data science skills here (e.g., Data Visualization, Feature Engineering)"
+  Version Control:
+    - "List version control tools here (e.g., Git)"
+  Other Tools & Technologies:
+    - "List other tools and technologies here (e.g., Docker, Kubernetes, Jenkins)"
+  Soft Skills:
+    - "List soft skills here (e.g., Communication, Problem-solving, Teamwork)"
