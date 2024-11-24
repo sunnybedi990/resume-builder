@@ -4,4 +4,4 @@ __pycache__/
 *.DS_Store
 *.log
 *.sqlite3
-resume_skeleton.yaml  # Exclude personal YAML file if required
+resume_skeleton.yaml
